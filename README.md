@@ -64,6 +64,7 @@ Currently, I'm working on:
 ## 🔢 Contributions & Streaks
 
 ![GitHub Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jashia515&theme=github-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jashia515&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 
