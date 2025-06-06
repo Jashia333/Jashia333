@@ -55,7 +55,7 @@ Currently, I'm working on:
 ## 📫 Let's Connect!
 
 📧 **Email**: [jashia.jm@gmail.com](mailto:jashia.jm@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/jashia-mitayeegiri](https://www.linkedin.com/in/jashia-mitayeegiri)  
+🔗 **LinkedIn**: [linkedin.com/in/jashia-m](https://www.linkedin.com/in/jashia-m)  
 🌐 **Portfolio**: [jashia515.github.io](https://jashia515.github.io/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Jashia515&style=flat-square&color=blue)
