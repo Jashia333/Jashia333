@@ -61,19 +61,19 @@ Currently, I'm working on:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Jashia515&style=flat-square&color=blue)
 
 ---
+## 🔁 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jashia515&theme=github-dark-blue)](https://git.io/streak-stats)
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jashia515&show_icons=true&theme=github_dark&hide_title=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashia515&layout=compact&theme=github_dark)
 
-[![Jashia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jashia515&theme=github-compact)](https://github.com/Jashia515)
 
-## 🔁 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jashia515&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Jashia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jashia515&area=true&theme=github-compact)](https://github.com/Jashia515)
 
 
 ---
