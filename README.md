@@ -46,9 +46,9 @@ MongoDB • PostgreSQL • Nginx • LangChain • SERP API • Markov Decision 
 
 ## 📫 Let's Connect!
 
-📧 **Email**: jashia.mitayeegiri@gmail.com  
+📧 **Email**: jashia.jm@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/jashia-mitayeegiri](https://www.linkedin.com/in/jashia-mitayeegiri)  
-🌐 **Portfolio**: *coming soon*
+🌐 **Portfolio**: [*coming soon*](https://jashia515.github.io/)
 
 ---
 
