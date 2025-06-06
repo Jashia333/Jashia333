@@ -69,5 +69,12 @@ Currently, I'm working on:
 
 [![Jashia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jashia515&theme=github-compact)](https://github.com/Jashia515)
 
+## 🔁 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jashia515&theme=github-dark-blue)](https://git.io/streak-stats)
+
+[![Jashia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jashia515&area=true&theme=github-compact)](https://github.com/Jashia515)
+
+
 ---
 
