@@ -56,20 +56,20 @@ Currently, I'm working on:
 
 📧 **Email**: [jashia.jm@gmail.com](mailto:jashia.jm@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/jashia-m](https://www.linkedin.com/in/jashia-m)  
-🌐 **Portfolio**: [jashia515.github.io](https://jashia515.github.io/)
+🌐 **Portfolio**: [jashia333.github.io](https://jashia333.github.io/)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Jashia515&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Jashia333&style=flat-square&color=blue)
 
 ---
 ## 🔢 Contributions & Streaks
 
-![GitHub Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jashia515&theme=github-dark&hide_border=true)
+![GitHub Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jashia333&theme=github-dark&hide_border=true)
 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jashia515&show_icons=true&theme=github_dark&hide_title=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashia515&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jashia333&show_icons=true&theme=github_dark&hide_title=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashia333&layout=compact&theme=github_dark)
 
 
 
