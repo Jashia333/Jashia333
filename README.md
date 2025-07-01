@@ -12,13 +12,13 @@
 
 ---
 
-🔍 I’m passionate about building intelligent systems that blend cutting-edge AI with scalable software design.  
-With experience in **deep learning**, **natural language processing**, **real-time data analytics**, and **wireless signal processing**, I focus on solving complex problems with practical and impactful solutions.
+🎓 AI enthusiast with a Master’s in Artificial Intelligence and a deep passion for building intelligent systems for the real world. I’ve engineered Transformer-based models for radio map estimation 📡, built and deployed chatbots using ViT and custom NER pipelines, and published peer-reviewed research at IEEE.
 
-Currently, I'm working on:
-- 📡 **Wireless Transmitter Localization** with Transformers  
-- 📊 **Real-Time Data Analytics** using Apache Kafka and PySpark  
-- 🤖 **Intelligent Chatbot Systems** integrated into secure platforms  
+☁️ Experienced in designing secure, scalable AI systems on AWS—hands-on with SageMaker, S3, IAM, and containerized MLOps workflows. I focus on resource-efficient models that run smoothly on CPUs—ideal for lightweight production-grade assistants 🤖💬.
+
+📊 My work blends ML modeling, data cleaning, and pipeline automation—whether it's enhancing radio-map estimation with Deep Progressive Networks 🛰️ or building Kafka-powered YouTube analytics pipelines 📊. Always curious, always building!
+
+⚙️ I thrive at the intersection of ML, cloud, and software engineering—always learning, always building. Let’s connect and geek out on AI, cloud, or anything in between! 🚀🔍
 
 ---
 
@@ -48,7 +48,7 @@ Currently, I'm working on:
 
 - 📶 **LocFormer**: A Transformer-based model to enhance transmitter localization in wireless radio maps.  
 - 📍 **DPN-RME**: Deep Progressive Networks for improved Radio Map Estimation, published at *IEEE MIPR 2024*.  
-- 🧠 **Research Companion**: A Streamlit tool integrating Gemini Pro, BERT-RAG, and SERP API for intelligent academic paper querying.
+- 🧠 **Research Companion**: A Streamlit tool integrating Gemini Pro and SERP API for intelligent academic paper with Langchain.
 
 ---
 
